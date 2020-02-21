@@ -13,3 +13,8 @@ p { color: midnightblue;
     border: 3px solid #73AD21;
     padding: 10px;
 }
+img { 
+    width: 30%; 
+    height: 30%; 
+    object-fit: contain; 
+} 
